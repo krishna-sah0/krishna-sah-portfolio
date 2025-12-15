@@ -1,73 +1,95 @@
-# Welcome to your Lovable project
+# 🌐 Krishna Sah — Personal Portfolio
 
-## Project info
+🚀 Welcome to my personal portfolio repository!  
+This website represents my professional journey, skills, and projects as a **Full-Stack Developer** with a strong interest in **Web Technologies, AI, and Software Engineering**.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 👤 About Me
 
-There are several ways of editing your application.
+Hi, I’m **Krishna Sah**, a Computer Science and Engineering undergraduate passionate about building scalable web applications and solving real-world problems using technology. I enjoy working across the full stack and continuously improving my skills.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 🛠️ Skills & Technologies
 
-Changes made via Lovable will be committed automatically to this repo.
+### 💻 Programming Languages
+- Java
+- Python
+- JavaScript
 
-**Use your preferred IDE**
+### 🌐 Web Development
+- HTML5
+- CSS3
+- React.js
+- Node.js
+- Express.js
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 🗄️ Databases
+- MySQL
+- MongoDB
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### ⚙️ Tools & Platforms
+- Git & GitHub
+- VS Code
+- Postman
+- Docker (Basics)
 
-Follow these steps:
+### 🤖 Other Interests
+- Artificial Intelligence
+- Image Processing
+- Cloud Computing
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 📂 Projects
 
-# Step 3: Install the necessary dependencies.
-npm i
+Some of the key projects featured in this portfolio:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- **AI Resume Screening Tool**  
+  NLP-based application to analyze and rank resumes automatically.
 
-**Edit a file directly in GitHub**
+- **Multi-Vendor E-Commerce Platform**  
+  Full-stack application with admin panel, authentication, and product management.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- **Secure Chat Application**  
+  End-to-end encrypted chat system focusing on privacy and security.
 
-**Use GitHub Codespaces**
+- **Restro Ride**  
+  Smart restaurant-based delivery and booking system.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+> Detailed project descriptions, live demos, and source code links are available on the portfolio website.
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 🎯 Career Objective
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+To secure a challenging role as a **Software / Full-Stack Developer** where I can apply my technical knowledge, learn from real-world challenges, and contribute to impactful projects.
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+## 🌍 Live Portfolio
 
-## Can I connect a custom domain to my Lovable project?
+🔗 **Live Website:**  
+https://krishnasah.github.io  
 
-Yes, you can!
+(Replace the link if your deployment URL is different)
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 📬 Contact Me
+
+- **Email:** shahkrishna9845@gmail.com.com  
+- **GitHub:** [https://github.com/krishnasah  ](https://github.com/krishna-sah0 )
+- **LinkedIn:** [https://linkedin.com/in/your-profile  ](https://www.linkedin.com/in/krishna-sah-2059r/ )
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+You are free to use the structure for learning purposes, but please do not copy the content directly.
+
+---
+
+⭐ If you like this portfolio, feel free to star the repository!
