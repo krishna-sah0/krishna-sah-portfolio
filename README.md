@@ -1,5 +1,8 @@
 # 🌐 Krishna Sah — Personal Portfolio
 
+<img width="1347" height="583" alt="image" src="https://github.com/user-attachments/assets/3fe7b69f-0b88-4535-a2f2-578493ffca31" />
+
+
 🚀 Welcome to my personal portfolio repository!  
 This website represents my professional journey, skills, and projects as a **Full-Stack Developer** with a strong interest in **Web Technologies, AI, and Software Engineering**.
 
